@@ -42,10 +42,11 @@ Welcome to Quantitative Reasoning II, part of the Intellectual Foundations serie
 ### Monday Jan 13
 - Read Ch 2 of Rosling. Complete the question set: [R2 Questions](https://qr2-w25.github.io/homepage/questions/R2-before.html)
 - Introduction to computing - Read sections 2.1, 2.2, and 2.3 of [Data Science in R: A Gentle Introduction](https://bookdown.org/jgscott/DSGI/lesson_data.html#data-frames-cases-and-variariables)
+- Tutorial 1 Introduction (Data, variation, visualization, and trends) Due: [Tutorial 1 Introduction](https://dtkaplan.github.io/QR2-computing/tutorial-1.html)
 
 ### Tuesday Jan 14
-- Read Ch 2 of Spiegelhalter. Complete the question set: TBA
+- Readings: TBA
 
 ### Monday Jan 21
-- Tutorial 1 (Data, variation, visualization, and trends) Due: [Tutorial 1](https://dtkaplan.github.io/QR2-computing/tutorial-1.html)
+- Tutorial 1 Exercises (Data, variation, visualization, and trends) Due: [Tutorial 1 Exercises](https://dtkaplan.github.io/QR2-computing/tutorial-1.html)
 - Readings: TBA
