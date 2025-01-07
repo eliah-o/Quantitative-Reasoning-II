@@ -23,8 +23,8 @@ Welcome to Quantitative Reasoning II, part of the Intellectual Foundations serie
 | 7: 2/19, 2/20 |   Precision      |     Precision    |
 | 8: 2/24, 2/25|    Confounding     |    Confounding     |
 | 9: 3/3, 3/4  |    Confounding     |     Confounding    |
-| 10: 3/10, 3/13 |     Hypothetical reasoning    |    Hypothetical reasoning     |
-| 11: 3/17, 3/20 |    Project Presentations     |    Project Presentations     |
+| 10: 3/10, 3/11 |     Hypothetical reasoning    |    Hypothetical reasoning     |
+| 11: 3/17, 3/18 |    Project Presentations     |    Project Presentations     |
 
 *Note: The class schedule is shifted Week 3 for MLK Day Observance. 
 
