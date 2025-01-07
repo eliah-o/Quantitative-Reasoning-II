@@ -39,11 +39,11 @@ Welcome to Quantitative Reasoning II, part of the Intellectual Foundations serie
 - Read Ch 1 of Spiegelhalter. Complete the question set: [S1 Questions](https://qr2-w25.github.io/homepage/questions/S1-before.html)
 - Complete the Spiegelhalter Introduction follow-up question: [S0 Question](https://qr2-w25.github.io/homepage/questions/S0-after.html)
 
-### Monday Jan 10
+### Monday Jan 13
 - Read Ch 2 of Rosling. Complete the question set: [R2 Questions](https://qr2-w25.github.io/homepage/questions/R2-before.html)
 - Introduction to computing - Read sections 2.1, 2.2, and 2.3 of [Data Science in R: A Gentle Introduction](https://bookdown.org/jgscott/DSGI/lesson_data.html#data-frames-cases-and-variariables)
 
-### Tuesday Jan 11
+### Tuesday Jan 14
 - Read Ch 2 of Spiegelhalter. Complete the question set: TBA
 
 ### Monday Jan 21
