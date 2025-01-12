@@ -10,6 +10,9 @@ Welcome to Quantitative Reasoning II, part of the Intellectual Foundations serie
 - Confounding
 - Hypothetical reasoning
 
+## Office Hours
+Office hours are 12pm-1pm Mondays and 11:30am-12:30pm Tuesdays in the Library Office. Additional office hours can be scheduled upon request over email.
+
 ## Rough Schedule
 
 | Week       | Day 1 | Day 2 |
