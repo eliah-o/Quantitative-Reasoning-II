@@ -23,13 +23,14 @@ Office hours are 12pm-1pm Mondays and 11:30am-12:30pm Tuesdays in the Library Of
 | 4: 1/27, 1/28|   Regression & Adjustment      |      Regression & Adjustment   |
 | 5: 2/3, 2/4 |      Regression & Adjustment   |    Midterm     |
 | 6: Reading Week|     *reading week*    |     *reading week*    |
-| 7: 2/19, 2/20 |   Precision      |     Precision    |
+| 7: 2/18, 2/19+ |   Precision      |     Precision    |
 | 8: 2/24, 2/25|    Confounding     |    Confounding     |
 | 9: 3/3, 3/4  |    Confounding     |     Confounding    |
 | 10: 3/10, 3/11 |     Hypothetical reasoning    |    Hypothetical reasoning     |
 | 11: 3/17, 3/18 |    Project Presentations     |    Project Presentations     |
 
 *Note: The class schedule is shifted Week 3 for MLK Day Observance. 
++Note: The class schedule is shifted Week 7 for President's Day Observance. 
 
 ## Homework Deadlines
 
