@@ -53,6 +53,6 @@ Office hours are 12pm-1pm Mondays and 11:30am-12:30pm Tuesdays in the Library Of
 - In-class Quiz 1 on Block 1: Data, visualization, and trends. Study previous readings and R tutorials. Quiz is multiple choice and will be the first 20 minutes of class.
 
 ### Monday Jan 21
-- Tutorial 1 Exercises (Data, variation, visualization, and trends) Due: [Tutorial 1 Exercises](https://dtkaplan.github.io/QR2-computing/tutorial-1.html)
+- Tutorial 1 Exercises (Data, variation, visualization, and trends) Due: [Tutorial 1 Exercises](https://dtkaplan.github.io/QR2-computing/exercises-1.html)
 - Read Ch 4 of Rosling (we’re skipping Rosling 3, saving that for another day). Complete the question set: [R4 Questions](https://qr2-w25.github.io/homepage/questions/R4-before.html)
 - Read Ch 3 of Spiegelhalter. Complete the question set: [S3 questions](https://qr2-w25.github.io/homepage/questions/S3-before.html)
