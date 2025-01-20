@@ -52,7 +52,29 @@ Office hours are 12pm-1pm Mondays and 11:30am-12:30pm Tuesdays in the Library Of
 ### Tuesday Jan 14
 - In-class Quiz 1 on Block 1: Data, visualization, and trends. Study previous readings and R tutorials. Quiz is multiple choice and will be the first 20 minutes of class.
 
-### Monday Jan 21
+### Tuesday Jan 21
 - Tutorial 1 Exercises (Data, variation, visualization, and trends) Due: [Tutorial 1 Exercises](https://dtkaplan.github.io/QR2-computing/exercises-1.html)
 - Read Ch 4 of Rosling (we’re skipping Rosling 3, saving that for another day). Complete the question set: [R4 Questions](https://qr2-w25.github.io/homepage/questions/R4-before.html)
-- Read Ch 3 of Spiegelhalter. Complete the question set: [S3 questions](https://qr2-w25.github.io/homepage/questions/S3-before.html)
+- Read Ch 3 of Spiegelhalter. Complete the question set: [S3 Questions](https://qr2-w25.github.io/homepage/questions/S3-before.html)
+
+### Wednesday Jan 22
+- Read Ch 6 of Spiegelhalter. Complete the question set: [S6 Questions](https://qr2-w25.github.io/homepage/questions/S6-before.html)
+- Tutorial 2 (Prediction and classification) Due: [Tutorial 2](https://dtkaplan.github.io/QR2-computing/tutorial-2.html)
+
+### Monday Jan 27
+- Read Ch 5 of Rosling. Complete the question set: [R5 Questions](https://qr2-w25.github.io/homepage/questions/R5-before.html)
+- Tutorial 2 Exercises (Prediction and classification) Due: [Tutorial 2 Exercises](https://dtkaplan.github.io/QR2-computing/exercises-2.html)
+- In-Class Quiz 2 on Block 2: Study Rosling Ch 4, Spiegelhalter Ch 3 & 6, Tutorial 2. Quiz is multiple choice and will be the first 20 minutes of class.
+
+### Tuesday Jan 28
+- Read Ch 5 of Spiegelhalter. Complete the question set [S5 Questions](https://qr2-w25.github.io/homepage/questions/S05-before.html)
+- Tutorial 3 (Regression and Adjustment) Due: [Tutorial 3](https://dtkaplan.github.io/QR2-computing/tutorial-3.html)
+
+### Monday Feb 3
+- Read Ch 3 of Rosling. Complete the question set [R3 Questions](https://qr2-w25.github.io/homepage/questions/R03-before.html)
+- Tutorial 3 Exercises (Regression and Adjustment) Due: [Tutorial 3 Exercises](https://dtkaplan.github.io/QR2-computing/exercises-3.html)
+- In-Class Quiz 3 on Block 3: Study Rosling Ch 3 & 5, Spiegelhalter Ch 5, Tutorial 3. Quiz is multiple choice and will be the first 20 minutes of class.
+
+### Tuesday Feb 4
+- Midterm day! No in-class assignments due. 
+
