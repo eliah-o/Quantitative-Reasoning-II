@@ -67,7 +67,7 @@ Office hours are 12pm-1pm Mondays and 11:30am-12:30pm Tuesdays in the Library Of
 - In-Class Quiz 2 on Block 2: Study Rosling Ch 4, Spiegelhalter Ch 3 & 6, Tutorial 2. Quiz is multiple choice and will be the first 20 minutes of class.
 
 ### Tuesday Jan 28
-- Read Ch 5 of Spiegelhalter. Complete the question set [S5 Questions](https://qr2-w25.github.io/homepage/questions/S05-before.html)
+- Read Ch 5 of Spiegelhalter. Complete the question set [S5 Questions](https://qr2-w25.github.io/homepage/questions/S5-before.html)
 - Tutorial 3 (Regression and Adjustment) Due: [Tutorial 3](https://dtkaplan.github.io/QR2-computing/tutorial-3.html)
 
 ### Monday Feb 3
