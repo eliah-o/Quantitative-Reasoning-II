@@ -71,7 +71,7 @@ Office hours are 12pm-1pm Mondays and 11:30am-12:30pm Tuesdays in the Library Of
 - Tutorial 3 (Regression and Adjustment) Due: [Tutorial 3](https://dtkaplan.github.io/QR2-computing/tutorial-3.html)
 
 ### Monday Feb 3
-- Read Ch 3 of Rosling. Complete the question set [R3 Questions](https://qr2-w25.github.io/homepage/questions/R03-before.html)
+- Read Ch 3 of Rosling. Complete the question set [R3 Questions](https://qr2-w25.github.io/homepage/questions/R3-before.html)
 - Tutorial 3 Exercises (Regression and Adjustment) Due: [Tutorial 3 Exercises](https://dtkaplan.github.io/QR2-computing/exercises-3.html)
 - In-Class Quiz 3 on Block 3: Study Rosling Ch 3 & 5, Spiegelhalter Ch 5, Tutorial 3. Quiz is multiple choice and will be the first 20 minutes of class.
 
