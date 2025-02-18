@@ -76,5 +76,48 @@ Office hours are 12pm-1pm Mondays and 11:30am-12:30pm Tuesdays in the Library Of
 - In-Class Quiz 3 on Block 3: Study Rosling Ch 3 & 5, Spiegelhalter Ch 5, Tutorial 3. Quiz is multiple choice and will be the first 20 minutes of class.
 
 ### Tuesday Feb 4
-- Midterm day! No in-class assignments due. 
+- Midterm day! No in-class assignments due.
+
+### Tuesday Feb 18
+- Welcome back from reading week! No assignments due.
+
+### Wednesday Feb 19
+- Read Ch 7 of Spiegelhalter. Complete the question set [S7 Questions](https://qr2-w25.github.io/homepage/questions/S7-before.html)
+
+### Monday Feb 24
+- Read Ch 7 of Rosling. Complete the question set: [R7 Questions](https://qr2-w25.github.io/homepage/questions/R7-before.html)
+- Read Ch 8 of Spiegelhalter. Complete the question set [S8 Questions](https://qr2-w25.github.io/homepage/questions/S8-before.html)
+- Tutorial 4 Introduction (Precision and Confidence) Due: [Tutorial 4 Introduction](https://dtkaplan.github.io/QR2-computing/tutorial-4.html)
+
+### Tuesday Feb 25
+- Read Ch 8 of Rosling. Complete the question set: [R8 Questions](https://qr2-w25.github.io/homepage/questions/R8-before.html)
+- Read Ch 9 of Spiegelhalter. Complete the question set [S9 Questions](https://qr2-w25.github.io/homepage/questions/S9-before.html)
+- Tutorial 4 Exercises (Precision and Confidence) Due: [Tutorial 4 Exercises](https://dtkaplan.github.io/QR2-computing/exercises-4.html)
+
+### Monday Mar 3
+- Read Ch 4 of Spiegelhalter. Complete the question set [S4 Questions](https://qr2-w25.github.io/homepage/questions/S4-before.html)
+- Tutorial 5 Introduction (Accuracy, confounding and adjustment) Due: [Tutorial 5 Introduction](https://dtkaplan.github.io/QR2-computing/tutorial-5.html)
+- In-Class Quiz 4 on Block 4: Study Rosling Ch 7 & 8, Spiegelhalter Ch 7, 8, & 9, Tutorial 4. Quiz is multiple choice and will be the first 20 minutes of class.
+
+### Tuesday Mar 4
+- Read Ch 9 of Rosling. Complete the question set: [R9 Questions](https://qr2-w25.github.io/homepage/questions/R9-before.html)
+- Read Ch 11 of Spiegelhalter. Complete the question set [S11 Questions](https://qr2-w25.github.io/homepage/questions/S11-before.html)
+- Tutorial 5 Exercises (Accuracy, confounding and adjustment) Due: [Tutorial 5 Exercises](https://dtkaplan.github.io/QR2-computing/exercises-5.html)
+  
+### Monday Mar 10
+- Read Ch 13 of Spiegelhalter. Complete the question set [S13 Questions](https://qr2-w25.github.io/homepage/questions/S13-before.html)
+- Tutorial 6 Introduction (Hypothetical reasoning & Bayes) Due: [Tutorial 6 Introduction](https://dtkaplan.github.io/QR2-computing/tutorial-6.html)
+- In-Class Quiz 5 on Block 5: Study Rosling Ch 9, Spiegelhalter Ch 4 & 11, Tutorial 5. Quiz is multiple choice and will be the first 20 minutes of class.
+
+### Tuesday Mar 11
+- Read Ch 10 of Rosling. Complete the question set: [R10 Questions](https://qr2-w25.github.io/homepage/questions/R10-before.html)
+- Read Ch 14 of Spiegelhalter. Complete the question set [S14 Questions](https://qr2-w25.github.io/homepage/questions/S14-before.html)
+- Tutorial 6 Exercises (Hypothetical reasoning & Bayes) Due: [Tutorial 6 Exercises](https://dtkaplan.github.io/QR2-computing/exercises-6.html)
+
+### Monday Mar 17
+- In-Class Quiz 6 on Block 6: Study Rosling Ch 10, Spiegelhalter Ch 13 & 14, Tutorial 6. Quiz is multiple choice and will be the first 20 minutes of class.
+- Final Project Presentations
+
+### Tuesday Mar 18
+- Final Project Presentations
 
