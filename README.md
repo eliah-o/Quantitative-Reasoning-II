@@ -82,7 +82,7 @@ Office hours are 12pm-1pm Mondays and 11:30am-12:30pm Tuesdays in the Library Of
 - Welcome back from reading week! No assignments due.
 
 ### Wednesday Feb 19
-- Read Ch 7 of Spiegelhalter. Complete the question set [S7 Questions](https://qr2-w25.github.io/homepage/questions/R7-before.html)
+- Read Ch 7 of Spiegelhalter. Complete the question set [S7 Questions] (Link Pending)
 
 ### Monday Feb 24
 - Read Ch 7 of Rosling. Complete the question set: [R7 Questions](https://qr2-w25.github.io/homepage/questions/R7-before.html)
