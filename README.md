@@ -88,6 +88,7 @@ Office hours are 12pm-1pm Mondays and 11:30am-12:30pm Tuesdays in the Library Of
 - Read Ch 7 of Rosling. Complete the question set: [R7 Questions](https://qr2-w25.github.io/homepage/questions/R7-before.html)
 - Read Ch 8 of Spiegelhalter. Complete the question set [S8 Questions](https://qr2-w25.github.io/homepage/questions/S8-before.html)
 - Tutorial 4 Introduction (Precision and Confidence) Due: [Tutorial 4 Introduction](https://dtkaplan.github.io/QR2-computing/tutorial-4.html)
+- Final Project Checkpoint 1: Instructions & [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSdAzXOk2yiFFS0KSYA_TshSx4anAuBrgTWvhH92tsSe_h-1jg/viewform?usp=sharing).
 
 ### Tuesday Feb 25
 - Read Ch 8 of Rosling. Complete the question set: [R8 Questions](https://qr2-w25.github.io/homepage/questions/R8-before.html)
