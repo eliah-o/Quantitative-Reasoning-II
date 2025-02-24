@@ -99,6 +99,7 @@ Office hours are 12pm-1pm Mondays and 11:30am-12:30pm Tuesdays in the Library Of
 - Read Ch 4 of Spiegelhalter. Complete the question set [S4 Questions](https://qr2-w25.github.io/homepage/questions/S4-before.html)
 - Tutorial 5 Introduction (Accuracy, confounding and adjustment) Due: [Tutorial 5 Introduction](https://dtkaplan.github.io/QR2-computing/tutorial-5.html)
 - In-Class Quiz 4 on Block 4: Study Rosling Ch 7 & 8, Spiegelhalter Ch 7, 8, & 9, Tutorial 4. Quiz is multiple choice and will be the first 20 minutes of class.
+- Final Project Checkpoint 2: [Instructions](https://github.com/eliah-o/Quantitative-Reasoning-II/blob/main/Final_Project/Final%20Project%20-%20Checkpoint%202.pdf) & [Submission Link](https://forms.gle/LPTjP5sFy2quydxu5)
 
 ### Tuesday Mar 4
 - Read Ch 9 of Rosling. Complete the question set: [R9 Questions](https://qr2-w25.github.io/homepage/questions/R9-before.html)
