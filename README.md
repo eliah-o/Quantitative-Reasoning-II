@@ -110,6 +110,7 @@ Office hours are 12pm-1pm Mondays and 11:30am-12:30pm Tuesdays in the Library Of
 - Read Ch 13 of Spiegelhalter. Complete the question set [S13 Questions](https://qr2-w25.github.io/homepage/questions/S13-before.html)
 - Tutorial 6 Introduction (Hypothetical reasoning & Bayes) Due: [Tutorial 6 Introduction](https://dtkaplan.github.io/QR2-computing/tutorial-6.html)
 - In-Class Quiz 5 on Block 5: Study Rosling Ch 9, Spiegelhalter Ch 4 & 11, Tutorial 5. Quiz is multiple choice and will be the first 20 minutes of class.
+- Final Project Checkpoint 3: [Instructions](https://github.com/eliah-o/Quantitative-Reasoning-II/blob/main/Final_Project/Final%20Project%20-%20Checkpoint%203.pdf) & [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSfqPaGYvL2eyvYYlB2N2FhGQg129RkCxHKt_TLFJdPHVgNagg/viewform?usp=dialog)
 
 ### Tuesday Mar 11
 - Read Ch 10 of Rosling. Complete the question set: [R10 Questions](https://qr2-w25.github.io/homepage/questions/R10-before.html)
