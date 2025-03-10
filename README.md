@@ -119,6 +119,7 @@ Office hours are 12pm-1pm Mondays and 11:30am-12:30pm Tuesdays in the Library Of
 
 ### Monday Mar 17
 - In-Class Quiz 6 on Block 6: Study Rosling Ch 10, Spiegelhalter Ch 13 & 14, Tutorial 6. Quiz is multiple choice and will be the first 20 minutes of class.
+- Final Project Checkpoint 4: Instructions & [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSdtVdy924djugFsd12FI_w-UEOESzkIgSRyXvoi8Bp8f2nKtg/viewform?usp=header) 
 - Final Project Presentations
 
 ### Tuesday Mar 18
