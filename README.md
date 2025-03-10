@@ -119,7 +119,7 @@ Office hours are 12pm-1pm Mondays and 11:30am-12:30pm Tuesdays in the Library Of
 
 ### Monday Mar 17
 - In-Class Quiz 6 on Block 6: Study Rosling Ch 10, Spiegelhalter Ch 13 & 14, Tutorial 6. Quiz is multiple choice and will be the first 20 minutes of class.
-- Final Project Checkpoint 4: Instructions & [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSdtVdy924djugFsd12FI_w-UEOESzkIgSRyXvoi8Bp8f2nKtg/viewform?usp=header) 
+- Final Project Checkpoint 4: [Instructions](https://github.com/eliah-o/Quantitative-Reasoning-II/blob/main/Final_Project/Final%20project%20-%20Checkpoint%204.pdf) & [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSdtVdy924djugFsd12FI_w-UEOESzkIgSRyXvoi8Bp8f2nKtg/viewform?usp=header) & [Starter Code](https://github.com/eliah-o/Quantitative-Reasoning-II/blob/main/Final_Project/Checkpoint4.R) & [Lecture](https://github.com/eliah-o/Quantitative-Reasoning-II/blob/main/Final_Project/Final%20Project%20-%20Checkpoint%204%20Lecture.pdf)
 - Final Project Presentations
 
 ### Tuesday Mar 18
