@@ -126,4 +126,4 @@ Office hours are 12pm-1pm Mondays and 11:30am-12:30pm Tuesdays in the Library Of
 - Final Project Presentations
 
 ## Final Project Slide Template 
-- [Google Slides template](https://docs.google.com/presentation/d/1_Tps61nNK_J4bGGDrDDis7pnB4Ul7iHH5DqQH66BAfw/edit?usp=sharing) (transfer a copy to your own drive to edit) OR download [Powerpoint version](https://github.com/eliah-o/Quantitative-Reasoning-II/blob/main/Final_Project/QR2%20Final%20Project%20-%20Slide%20Template.pptx) (Github will not provide a preview. Download to view)
+- [Google Slides template](https://docs.google.com/presentation/d/1BsspjlM-pCBaflD3nQCD3jp_I7fn19NvKNvOoJK6WoE/edit?usp=sharing) (transfer a copy to your own drive to edit) OR download [Powerpoint version](https://github.com/eliah-o/Quantitative-Reasoning-II/blob/main/Final_Project/QR2%20Final%20Project%20-%20Slide%20Template.pptx) (Github will not provide a preview. Download to view)
